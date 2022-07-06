@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+svg {
+    padding: 0.009rem;
+    margin: 0.25rem;
+}
+
 a {
     text-decoration: none;
 }
